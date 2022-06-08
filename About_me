@@ -1,7 +1,14 @@
 <!DOCTYPE html>
 <html>
+    <link rel = "stylesheet" href = "About_me.css">
     <div class="wrapper">
-        <h2 class="title">Pattern Animation</h2>
+        <h2 class="title">My name is Ray</h2>
+    </div>
+    <div class = "topbar">
+        <h1 class = "title">Ray Principe's Virtual Portfolio</h2>
+        <a class = "ql1" href = "html.html">Home</h2>
+        <a class = "ql2" href = "About_me">About Me</a>
+        <a class = "ql3">Transcript</a>
     </div>
 
 
